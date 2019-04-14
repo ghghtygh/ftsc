@@ -1,0 +1,21 @@
+﻿  Moc'ing window.h...
+  Moc'ing app.h...
+  Moc'ing canvas.h...
+  Moc'ing thcloth.h...
+  Moc'ing connects.h...
+  Moc'ing collision.h...
+  app.cpp
+  canvas.cpp
+  cloth.cpp
+  collision.cpp
+  connects.cpp
+  glcloth.cpp
+  thcloth.cpp
+  window.cpp
+  moc_window.cpp
+  moc_app.cpp
+  moc_canvas.cpp
+  moc_thcloth.cpp
+  moc_connects.cpp
+  moc_collision.cpp
+  ftsc_3.vcxproj -> C:\Users\homec\source\repos\ftsc_3\x64\Debug\ftsc_3.exe
